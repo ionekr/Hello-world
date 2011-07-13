@@ -1,1 +1,5 @@
-Hello folks!
+#12/07/11 lobg
+This is the beginning of an ambitious project: introduce my interests in the Scientific computing via some scripts about
+mathematical modeling most of them written in python. I hope you find them useful! 
+
+In my thesis work I made some scripts in order to estimate parameters in dynamical systems (a.k.a systems) that have been confronted against data of some state variables of the systems. The problem of parameter estimation was treated with the classical theory of inverse problems. I posed this as an optimization problem that was solved with global (heuristic) and local (based on gradients) methods... 
